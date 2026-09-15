@@ -1,0 +1,33 @@
+in deze opdracht maak ik een weather widget in een site.
+ik heb hiervoor een nepsite concept over luchtballoonen bedacht, zodat het weer van de widget een doel had
+
+de api is via tommorrow.io waar ik genoed data uit krijg om een widget te vullenme
+
+op het einde na ik het techinische deel af had gemaakt had ik
+    ,met behulp van AI aangezien het nieuw voor mij was, met sccs gebouwed voor een 'tweede build' 
+reflectie hierop is wel dat ik sccs meer moet leren en onder de vingers krijgen, ik ga hiervoor ook een nieuwe portoflio site maken met sccs
+
+
+
+error handeling:
+qua error handeling is er niet veel te doen, maar ik heb wel bij alle data ophaal momenten
+    gezorgt dat er een "kan niet laden" op de site komt te staan
+
+testen
+tijdens het bouwen van de techinische achtergrond gebruikt ik {{ data }}, om elke keer te zien of de data wordt opgehaald
+    ,en of een juiste element wordt getoont
+
+
+versie controllen
+ik heb op dagen na ik er aan heb gewerkt wel gecommit naar git
+    ,maar ik heb er nooit gepushed, want dit project is: klein, in mijn eentje en lokaal
+
+
+verbeter punten
+ik moet zeggen dat AI mijn vooral heeft geholpen met de sccs, ik heb het wel gebruikt om er van te leren.
+de layout van de widget had misschien beter en/of overzichtelijker kunnen zijn
+    en weer data misschien
+
+
+
+

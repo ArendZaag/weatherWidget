@@ -1,0 +1,10 @@
+de keuzes die ik heb gemaakt voor dit project zijn:
+
+visual studio code (VSC) als code editor
+
+nuxt als framework, aangezien ik hier al tijdens mijn eerste stage mee heb gewerkt
+    en het super overzichtelijk vindt met de folder structuur
+
+voor de api ben ik gegaan voor tommorrow.io's api. https://www.tomorrow.io
+    dit ook omdat ik klasgenoten dit herinderden te gebruiken vorig jaar
+

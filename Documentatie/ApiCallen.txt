@@ -1,0 +1,17 @@
+
+!! om de widget te laten werken stop een api key in .env in root: NUXT_TOMORROW_API_KEY=[api key]
+
+
+
+naast de widget is het api callen het grootste onderdeel qua code.
+
+voor veiligheid wou ik teminste:
+    geen api key die je via de site kan zien
+    de api enkeld elke 30 minuten wordt geroepen zodat het niet kan gespamt worden
+
+in nuxt kon ik dit doen in server/api/
+    via weather.get.ts haal ik de api key uit config en met coords maakt ik een api call
+
+en dan in composables/weathercall.js in een const voor de site te zetten
+    (ook via hier wordt de geselecteerde locatie door gegeven aan weather.get.ts)
+
